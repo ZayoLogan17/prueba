@@ -1,0 +1,20 @@
+# Entorno virtual Python
+venv/
+env/
+__pycache__/
+*.pyc
+*.pyo
+ 
+# Variables de entorno (NUNCA subir al repositorio)
+.env
+ 
+# Archivos de sistema
+.DS_Store
+*.log
+ 
+# Node modules (frontend)
+node_modules/
+dist/
+build/
+.env.local
+ 
